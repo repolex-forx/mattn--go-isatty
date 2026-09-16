@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "mattn",
+  "repo": "go-isatty",
+  "versions": [
+    {
+      "commit": "4237fb15069af3284b50e5d91bcdd5403e584605",
+      "parsed_at": "2026-09-16T09:36:06.976963+00:00",
+      "tag": "v0.0.21",
+      "filetree": "filetree/4237fb15069af3284b50e5d91bcdd5403e584605.nq.gz",
+      "blobs": [
+        "blob/5ea708f2d7d8bd6745f670faddb6e16182221cc7.nq.gz",
+        "blob/fa8f7e7455e2e09c17a30dff9480abfdb6252ba9.nq.gz",
+        "blob/e7c8d90053970d64713cc53ae2485d49fd8473f1.nq.gz",
+        "blob/0c3acf2dc288ab543e374e72a402003c027ce98f.nq.gz",
+        "blob/351ae11a875b1ac5c17b74b247b8a7c3c4716796.nq.gz",
+        "blob/38418353e31c8aafc3d22332f5d58a01f5f30246.nq.gz",
+        "blob/41edab0766ac2170eda3d191e927775fa5f89733.nq.gz",
+        "blob/d0ea68f4082fb7ec5a04baf64e4ec3313120060e.nq.gz",
+        "blob/ec525b0438ab5e083035861da45e656dce51e90c.nq.gz",
+        "blob/bc1eec1f07ad39c001327d7a102313165640017a.nq.gz",
+        "blob/b24a2fadc9cae52f5e0c8d66deacdd0124ca297f.nq.gz",
+        "blob/bae7f9bb3dc5fe622e13a055e02f3bb136127de6.nq.gz",
+        "blob/c0c8ce8c05de24a03f5e1817499eba72fa39e8c2.nq.gz",
+        "blob/65dc692b6b171e95c7e7698674ebaf8524dcd0d6.nq.gz",
+        "blob/012162b077c97e96bcb25c4be1a0716a29a35fd6.nq.gz",
+        "blob/0337d8cf6dea79e947b8dad03414a63d685bd1f8.nq.gz",
+        "blob/17d4f90ebcc7ee53452303f1c86d41eca5e13fc5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
