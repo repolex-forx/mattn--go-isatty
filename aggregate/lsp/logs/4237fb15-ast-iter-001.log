@@ -1,0 +1,7 @@
+[2026-09-16T09:37:44Z] === AST ITERATION 1 START | repo=mattn/go-isatty sha=4237fb15 ===
+[2026-09-16T09:37:44Z] [iter=1] PHASE START: ast repo=mattn/go-isatty sha=4237fb15
+[2026-09-16T09:37:44Z] [iter=1] Building AST aggregate chunks
+[2026-09-16T09:37:44Z] [iter=1] AST chunks built count=1 triples=8827
+[2026-09-16T09:37:44Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/4237fb15069af3284b50e5d91bcdd5403e584605/.complete
+[2026-09-16T09:37:44Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-09-16T09:37:44Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
